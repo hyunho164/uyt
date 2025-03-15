@@ -1,0 +1,59 @@
+.c1{
+    padding-top: 170px;
+    padding-left: 130px;
+}
+.c2{
+    padding-top: 10px;
+    padding-left: 130px;
+}
+.c3{
+    padding-top: 10px;
+    padding-left: 130px;
+}
+.c4{
+    padding-top: 10px;
+    padding-left: 130px;
+}
+.c5{
+    padding-top: 10px;
+    padding-left: 130px;
+}
+.c6{
+    padding-top: 10px;
+    padding-left: 130px;
+}
+.c7{
+    padding-top: 10px;
+    padding-left: 130px;
+}
+.m {
+    font-size: 100px;
+    font-weight: bold;
+    padding-left: 80px;
+    padding-top: 20px;
+    position: absolute;
+}
+
+
+.asd {
+    position: absolute;
+}
+
+.c1s {
+    position: absolute;
+    display: none;
+}
+.X {
+    border: 0;
+    background-color: transparent;
+    display: none;
+    position: fixed;
+    margin-top: 169px;
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+
+
+
+

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="760" viewBox="0 0 360 760">
+  <defs>
+    <clipPath id="clip-c1s">
+      <rect width="360" height="760"/>
+    </clipPath>
+  </defs>
+  <g id="c1s" clip-path="url(#clip-c1s)">
+    <rect width="360" height="760" fill="#d6d6d6"/>
+    <g id="c1s-2" data-name="c1s" transform="translate(-133 -8)">
+      <g id="그룹_2" data-name="그룹 2" transform="translate(133 -7)">
+        <g id="사각형_1" data-name="사각형 1" transform="translate(36.5 216)" fill="#dfdfdf" stroke="#000" stroke-width="1">
+          <rect width="287" height="428" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="286" height="427" rx="4.5" fill="none"/>
+        </g>
+        <line id="선_1" data-name="선 1" x2="286.068" transform="translate(36.5 255.17)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_3" data-name="선 3" x2="286" transform="translate(36.5 347)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_5" data-name="선 5" x2="287" transform="translate(36.5 394)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_6" data-name="선 6" x2="287" transform="translate(36.5 443)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_7" data-name="선 7" x2="287" transform="translate(36.5 493)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_8" data-name="선 8" x2="287" transform="translate(36.5 542)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_9" data-name="선 9" x2="287" transform="translate(36.5 589)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_10" data-name="선 10" x2="287" transform="translate(36.5 617)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_2" data-name="선 2" y1="426.174" transform="translate(75.425 216.642)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_11" data-name="선 11" y1="372.858" transform="translate(124.854 216.642)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_12" data-name="선 12" y1="372.858" transform="translate(174.282 216.642)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_13" data-name="선 13" y1="372.858" transform="translate(223.711 216.642)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_14" data-name="선 14" y1="372.858" transform="translate(273.14 216.642)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="선_4" data-name="선 4" x2="286" transform="translate(36.5 300)" fill="none" stroke="#000" stroke-width="1"/>
+        <text id="_1교시" data-name="1교시" transform="translate(56.5 279)" font-size="12" font-family="D2CodingBold, D2Coding"><tspan x="-15" y="0">1교시</tspan></text>
+        <text id="_2교시" data-name="2교시" transform="translate(56.5 324)" font-size="12" font-family="D2CodingBold, D2Coding"><tspan x="-15" y="0">2교시</tspan></text>
+        <text id="_3교시" data-name="3교시" transform="translate(56.5 371)" font-size="12" font-family="D2CodingBold, D2Coding"><tspan x="-15" y="0">3교시</tspan></text>
+        <text id="_4교시" data-name="4교시" transform="translate(56.5 421)" font-size="12" font-family="D2CodingBold, D2Coding"><tspan x="-15" y="0">4교시</tspan></text>
+        <text id="_5교시" data-name="5교시" transform="translate(56.5 471)" font-size="12" font-family="D2CodingBold, D2Coding"><tspan x="-15" y="0">5교시</tspan></text>
+        <text id="_6교시" data-name="6교시" transform="translate(55.5 521)" font-size="12" font-family="D2CodingBold, D2Coding"><tspan x="-15" y="0">6교시</tspan></text>
+        <text id="_7교시" data-name="7교시" transform="translate(55.5 570)" font-size="12" font-family="D2CodingBold, D2Coding"><tspan x="-15" y="0">7교시</tspan></text>
+        <text id="청소" transform="translate(54.5 606)" font-size="12" font-family="D2CodingBold, D2Coding"><tspan x="-12" y="0">청소</tspan></text>
+        <text id="종례" transform="translate(54.5 634)" font-size="12" font-family="D2CodingBold, D2Coding"><tspan x="-12" y="0">종례</tspan></text>
+        <text id="월" transform="translate(99 242)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-9" y="0">월</tspan></text>
+        <text id="화" transform="translate(150 242)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-9" y="0">화</tspan></text>
+        <text id="수" transform="translate(199 242)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-9" y="0">수</tspan></text>
+        <text id="목" transform="translate(248 242)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-9" y="0">목</tspan></text>
+        <text id="금" transform="translate(299 242)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-9" y="0">금</tspan></text>
+        <text id="체육" transform="translate(100 283)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">체육</tspan></text>
+        <text id="국어" transform="translate(100 330)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">국어</tspan></text>
+        <text id="과학" transform="translate(100 376)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">과학</tspan></text>
+        <text id="사회" transform="translate(100 424)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">사회</tspan></text>
+        <text id="영어" transform="translate(100 474)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">영어</tspan></text>
+        <text id="창체" transform="translate(100 523)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">창체</tspan></text>
+        <text id="수학" transform="translate(151 283)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">수학</tspan></text>
+        <text id="국어-2" data-name="국어" transform="translate(150 330)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">국어</tspan></text>
+        <text id="미술" transform="translate(150 376)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">미술</tspan></text>
+        <text id="미술-2" data-name="미술" transform="translate(150 424)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">미술</tspan></text>
+        <text id="기가" transform="translate(150 474)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">기가</tspan></text>
+        <text id="도덕" transform="translate(150 523)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">도덕</tspan></text>
+        <text id="과학-2" data-name="과학" transform="translate(150 571)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">과학</tspan></text>
+        <text id="사회-2" data-name="사회" transform="translate(198 283)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">사회</tspan></text>
+        <text id="한문" transform="translate(249 283)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">한문</tspan></text>
+        <text id="수학-2" data-name="수학" transform="translate(299 283)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">수학</tspan></text>
+        <text id="체육-2" data-name="체육" transform="translate(198 330)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">체육</tspan></text>
+        <text id="영어-2" data-name="영어" transform="translate(249 330)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">영어</tspan></text>
+        <text id="음악" transform="translate(299 330)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">음악</tspan></text>
+        <text id="수학-3" data-name="수학" transform="translate(198 376)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">수학</tspan></text>
+        <text id="도덕-2" data-name="도덕" transform="translate(198 425)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">도덕</tspan></text>
+        <text id="한문-2" data-name="한문" transform="translate(198 474)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">한문</tspan></text>
+        <text id="영어-3" data-name="영어" transform="translate(198 523)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">영어</tspan></text>
+        <text id="과학-3" data-name="과학" transform="translate(249 376)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">과학</tspan></text>
+        <text id="국어-3" data-name="국어" transform="translate(249 425)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">국어</tspan></text>
+        <text id="스포츠" transform="translate(249 474)" font-size="15" font-family="D2CodingBold, D2Coding"><tspan x="-22.5" y="0">스포츠</tspan></text>
+        <text id="수학-4" data-name="수학" transform="translate(249 523)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">수학</tspan></text>
+        <text id="기가-2" data-name="기가" transform="translate(249 571)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">기가</tspan></text>
+        <text id="진직" transform="translate(299 376)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">진직</tspan></text>
+        <text id="체육-3" data-name="체육" transform="translate(299 425)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">체육</tspan></text>
+        <text id="사회-3" data-name="사회" transform="translate(299 474)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">사회</tspan></text>
+        <text id="국어-4" data-name="국어" transform="translate(299 523)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">국어</tspan></text>
+        <text id="청소-2" data-name="청소" transform="translate(186 608)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">청소</tspan></text>
+        <text id="종례-2" data-name="종례" transform="translate(186 637)" font-size="18" font-family="D2CodingBold, D2Coding"><tspan x="-18" y="0">종례</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
